@@ -1,0 +1,27 @@
+.table1{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-image: url('1.jpeg')
+   /* background-image: 
+    url(https://images.unsplash.com/photo-1532768641073-503a250f9754?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bceece29b062fe6d758ddfa2400c554c&w=1000&q=80)
+    */
+}
+
+
+.form1{
+    background-color:transparent;
+
+}
+
+.title{
+    color: red
+}
+
+.title2{
+    color: red
+}
+
+.login{
+    color:turquoise
+}
