@@ -1,4 +1,4 @@
-.table1{
+.body{
     background-position: center;
     background-repeat: no-repeat;
     background-size:  cover;
@@ -16,13 +16,19 @@
 }
 
 .title{
-    color: red
+    color:red
+    
 }
 
 .title2{
     color: red
 }
 
+
+.signup{
+    color:whitesmoke
+}
+
 .login{
-    color:black
+    color:whitesmoke
 }
