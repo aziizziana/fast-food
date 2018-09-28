@@ -2,16 +2,15 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size:  cover;
-    background-image: url('1.jpeg')
-   /* background-image: 
-    url(https://images.unsplash.com/photo-1532768641073-503a250f9754?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bceece29b062fe6d758ddfa2400c554c&w=1000&q=80)
-    */
+    background-image: url('1.jpeg');
+    margin-top: 0;
 }
 
 
 .form1{
     background-color:transparent;
     padding: 100px;
+    height: 0;
 
 }
 
@@ -21,7 +20,7 @@
 }
 
 .title2{
-    color: red
+    color:red
 }
 
 
@@ -31,4 +30,41 @@
 
 .login{
     color:whitesmoke
+}
+
+.footer{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1px;
+    background-color:black;
+    text-align: center;
+    height: 50px;
+    color:red
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.header{
+    background-color:black;
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: 0;
+    padding: 1px;
+    text-align: center;
+    height: 60px;
+    color:red
 }
