@@ -29,7 +29,7 @@
 }
 
 .login{
-    color:whitesmoke
+    color:black
 }
 
 .footer{
@@ -55,6 +55,8 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    position: center;
+   
 }
 
 .header{
@@ -67,4 +69,8 @@
     text-align: center;
     height: 60px;
     color:red
+}
+
+.imgButton{
+    text-align:center;
 }

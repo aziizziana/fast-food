@@ -2,9 +2,12 @@
 <html>
     <head>
       
-     
+        <header class="header">
+            <h1 class = "title" align = center >FAST FOODS FAST</h1>    
+        </header>
   
       <title>LOG IN</title>
+
 
     <link rel="stylesheet" href="css/styles.css"></link>
     
@@ -12,16 +15,15 @@
     <body class="body">
 
 
-            <h1 align = "center" class="title">WELCOME TO FAST FOODS FAST</h1>
     
-      <form action="create_order.html" >
+      <form action="create_order.html" class = "form1">
         <table align ="center" > 
-              <h3 align ="center" class="login">LOGIN FORM</h3>
-          <tr> <td></td><td><input type="text" id="address" required placeholder="Enter your email address here" /></td> </tr>
-          <tr> <td></td><td><input type="password" id="pass" required placeholder="Password" /></td> </tr>
-          <tr> <td></td><td><input type="submit" class="button"  value="submit" /></td></tr>
+          
+              <tr><td> <input type="email" id="email" style = "padding: 10px;" placeholder="Enter your email" size="35"/></td> </tr>
+              <tr><td> <input type="password" id="password" style = "padding: 10px; "placeholder="Password" size="35"/></td> </tr>
+              <tr><td><input type="submit" class="button" value="LOGIN" /></td></tr>
 
-          <tr> <td colspan="2"><a href="signup.html"  class="signup"> You dont have an account please signup </a> </td>  </tr>
+     
           
         </table>
 
