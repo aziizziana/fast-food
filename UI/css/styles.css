@@ -4,6 +4,11 @@
     background-size:  cover;
     background-image: url('1.jpeg');
     margin-top: 0;
+  
+}
+
+.body1{
+    margin-left: 0;
 }
 
 
@@ -71,6 +76,12 @@
     color:red
 }
 
-.imgButton{
-    text-align:center;
+.img{
+    left: 0;
+    padding: 10px;
 }
+
+.image{
+    margin-left: 0;
+}
+
