@@ -2,26 +2,86 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size:  cover;
-    background-image: url('../images/1.jpeg')
-    
+    background-image: url('1.jpeg');
+    margin-top: 0;
+  
+}
+
+.body1{
+    margin-left: 0;
 }
 
 
 .form1{
-    
-    padding: 20px;
-    width: 100%;
+    background-color:transparent;
+    padding: 100px;
+    height: 0;
 
 }
 
 .title{
-    color: red
+    color:red
+    
 }
 
 .title2{
-    color: red
-}
-
-.button1{
     color:red
 }
+
+
+.signup{
+    color:whitesmoke
+}
+
+.login{
+    color:black
+}
+
+.footer{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1px;
+    background-color:black;
+    text-align: center;
+    height: 50px;
+    color:red
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: center;
+   
+}
+
+.header{
+    background-color:black;
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: 0;
+    padding: 1px;
+    text-align: center;
+    height: 60px;
+    color:red
+}
+
+.img{
+    left: 0;
+    padding: 10px;
+}
+
+.image{
+    margin-left: 0;
+}
+
