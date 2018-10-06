@@ -2,13 +2,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size:  cover;
-    background-image: url('1.jpeg');
-    margin-top: 0;
+    background-image: url('2.jpeg')
   
 }
 
 .body1{
-    margin-left: 0;
+   
+    padding-bottom:1px;
 }
 
 
@@ -45,7 +45,7 @@
     padding: 1px;
     background-color:black;
     text-align: center;
-    height: 50px;
+    height: 40px;
     color:red
 }
 

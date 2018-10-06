@@ -1,8 +1,6 @@
 class Application:
    
-    orders = []
+  orders=[]
 
-    
-    def signup(self, user):
-        self.users[user.email] = user
-
+  def add_order(self, order):
+      self.orders.append(orders.get_dict())

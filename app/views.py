@@ -27,3 +27,6 @@ def signup():
     return make_response(jsonify({
         "message":"successfully registered the user"
     })), 201
+
+    
+    
