@@ -41,21 +41,3 @@ api.add_resource(User,'/v1/users')
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-# GET /v1/orders
-# POST http://localhost/v1/orders creates a new resource
-# PUT /v1/orders modifies an exisiting resource
-# Overloading occurs when two or more methods in one class have the
-# same method name but different parameters
-
-## Join the call :)
-
-
-"""
-On Pivotal Tracker, create user stories to setup and test API endpoints 
-that do the following using data structures
-Place a new order for food.
-Get a list of orders.
-Fetch a specific order.
-Update the order status
-"""
